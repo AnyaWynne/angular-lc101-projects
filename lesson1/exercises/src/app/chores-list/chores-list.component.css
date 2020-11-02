@@ -1,0 +1,14 @@
+.chores {
+    font-family: fantasy;
+    padding: 20px;
+    color: brown;
+}
+
+ul {
+    font-size: 20px;
+    font-style: italic;
+}
+
+h3 {
+    text-decoration: underline;
+}
